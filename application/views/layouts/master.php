@@ -9,14 +9,14 @@
 <body>
 	<nav class="nav">
 		<div class="container">
-			<ul class="float-left">
-				<li class="title">LY | Conceptos</li>
+			<ul class="float-left" style="margin-left: 50px;">
+				<li class="title"><img style="width:180px;" src="<?php echo base_url().'assets/images/Logowhite.png' ?>" alt=""></a></li>
 			</ul>
-			<ul class="ul float-right">
+			<ul class="ul float-right" style="margin-right: 50px;">
 				<li><a href="<?php echo base_url().'/' ?>">Nosotros</a></li>
-				<li><a href="<?php echo base_url().'/projects' ?>">Proyectos</a></li>
+				<li><a href="<?php echo base_url().'projects' ?>">Proyectos</a></li>
 				<li><a href="<?php echo base_url().'services' ?>">Servicios</a></li>
-				<li><a href="<?php echo base_url().'/' ?>">Contacto</a></li>
+				<li><a href="<?php echo base_url().'contact' ?>">Contacto</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -25,13 +25,18 @@
 	</div>
     <footer>
     	<div class="container">
-    		<ul class="float-left">
-				<li class="title">LY | Conceptos</li>
-			</ul>
-			<ul class="ul float-right">
-				<li><a href="">Nosotros</a></li>
-				<li><a href="">Proyectos</a></li>
-			</ul>
+    		<div class="row">
+    			<div class="col-sm-1"></div>
+    			<div class="col-sm-9">
+    				<ul class="float-left">
+						<li class="title">Creado por MR WASABI</li>
+					</ul>
+					<ul class="ul float-right">
+						<li><a href=""><img style="width:32px;" src="<?php echo base_url().'assets/images/face_icon.png' ?>" alt=""></a></li>
+						<li><a href=""><img style="width:32px;" src="<?php echo base_url().'assets/images/insta_icon.png' ?>" alt=""></a></li>
+					</ul>
+    			</div>
+    		</div>
     	</div>
     </footer>
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

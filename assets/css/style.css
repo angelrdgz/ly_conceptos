@@ -97,11 +97,12 @@ html, body{
 .header-services{
 	height: 270px;
 	width: 100%;
-	background: url(../images/home_b1.png) no-repeat center center fixed; 
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
+	background: url(../images/banner_Servicios.png) center;
+}
+.header-projects{
+	height: 270px;
+	width: 100%;
+	background: url(../images/banner_projects.png) center;
 }
 footer{
 	width: 100%;

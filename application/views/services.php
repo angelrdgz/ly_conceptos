@@ -39,8 +39,8 @@
 			<div class="col-sm-12">
 				<h4 class="text-center">Proyectos Relacionados</h4>
 			</div>	
-			<div class="col-3">
-				<img style="height: 120px; max-width:100%;" src="<?php echo base_url().'assets/images/home_b1.png' ?>" alt="">
+			<div class="col-3" style="background:#fff;">
+				<img style="max-width:100%;" src="<?php echo base_url().'assets/images/proyecto_servicio_1.png' ?>" alt="">
 				<h5>Proyecto</h5>
 				<div class="row">
 					<div class="col-sm-12">
@@ -49,8 +49,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-3">
-				<img style="height: 120px; max-width:100%;" src="<?php echo base_url().'assets/images/home_b1.png' ?>" alt="">
+			<div class="col-3" style="background:#fff;">
+				<img style="max-width:100%;" src="<?php echo base_url().'assets/images/proyecto_servicio_2.png' ?>" alt="">
 				<h5>Proyecto</h5>
 				<div class="row">
 					<div class="col-sm-12">
@@ -59,8 +59,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-3">
-				<img style="height: 120px; max-width:100%;" src="<?php echo base_url().'assets/images/home_b1.png' ?>" alt="">
+			<div class="col-3" style="background:#fff;">
+				<img style="max-width:100%;" src="<?php echo base_url().'assets/images/proyecto_servicio_3.png' ?>" alt="">
 				<h5>Proyecto</h5>
 				<div class="row">
 					<div class="col-sm-12">
@@ -69,8 +69,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-3">
-				<img style="height: 120px; max-width:100%;" src="<?php echo base_url().'assets/images/home_b1.png' ?>" alt="">
+			<div class="col-3" style="background:#fff;">
+				<img style="max-width:100%;" src="<?php echo base_url().'assets/images/proyecto_servicio_4.png' ?>" alt="">
 				<h5>Proyecto</h5>
 				<div class="row">
 					<div class="col-sm-12">

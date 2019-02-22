@@ -18,28 +18,16 @@ class Welcome extends CI_Controller {
 		$this->template->set('title', 'Detalle | Portal Cero');
 		$this->template->load('master', 'contents' , 'services', $data);
 	}
-	public function search()
-	{
-		$data = array();
-		$this->template->set('title', 'Busqueda | Portal Cero');
-		$this->template->load('master', 'contents' , 'search', $data);
-	}
-	public function designers()
-	{
-		$data = array();
-		$this->template->set('title', 'Busqueda | Portal Cero');
-		$this->template->load('master', 'contents' , 'designers', $data);
-	}
-	public function login()
+	public function projects()
 	{
 		$data = array();
 		$this->template->set('title', 'Detalle | Portal Cero');
-		$this->template->load('blue_template', 'contents' , 'login', $data);
+		$this->template->load('master', 'contents' , 'projects', $data);
 	}
-	public function cart()
+	public function contact()
 	{
 		$data = array();
 		$this->template->set('title', 'Detalle | Portal Cero');
-		$this->template->load('blue_template', 'contents' , 'cart', $data);
+		$this->template->load('master', 'contents' , 'contact', $data);
 	}
 }
