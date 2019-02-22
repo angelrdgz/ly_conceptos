@@ -7,6 +7,9 @@ html, body{
 	height: 100%;
 	background: #ffffff;
 }
+.text-white{
+	color: #fff;
+}
 .bar-gray{
 	background: #d8d8d8;
 }
@@ -15,6 +18,14 @@ html, body{
 }
 .bar-gray-light{
 	background: #f7f7f7;
+}
+.btn-white{
+	border: 1px solid #fff;
+	color: #fff;
+}
+.btn-gray{
+	border: 1px solid #aaa;
+	color: #aaa;
 }
 .padding-box{
 	padding: 30px;
@@ -103,6 +114,18 @@ html, body{
 	height: 270px;
 	width: 100%;
 	background: url(../images/banner_projects.png) center;
+}
+.list-dot{
+	padding: 0;
+
+}
+.list-dot li{
+	display: inline-block;	
+	width: 32px;
+	height: 32px;
+	background: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
 }
 footer{
 	width: 100%;
