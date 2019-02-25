@@ -10,6 +10,9 @@ html, body{
 .text-white{
 	color: #fff;
 }
+.text-orange{
+	color: #ff7200;
+}
 .bar-gray{
 	background: #d8d8d8;
 }
@@ -26,6 +29,11 @@ html, body{
 .btn-gray{
 	border: 1px solid #aaa;
 	color: #aaa;
+}
+.btn-orange{
+	border: 1px solid #ff7200;
+	background: #ff7200;
+	color: #fff !important;
 }
 .padding-box{
 	padding: 30px;
@@ -115,22 +123,104 @@ html, body{
 	width: 100%;
 	background: url(../images/banner_projects.png) center;
 }
-.list-dot{
-	padding: 0;
-
+.hover-box{
+	position: relative;
 }
-.list-dot li{
-	display: inline-block;	
-	width: 28px;
-	height: 28px;
-	background: #fff;
-	border: 1px solid #fff;
+.hover-box .content{
+ width: 100%;
+ height: 100%;
+ background: rgba(0,0,0,.5);
+ position: absolute;
+ top: 0;
+ left: 0;
+ display: none;
+}
+.hover-box .content .text{
+	position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 250px;
+   height: 100px;
+   margin-top: -50px; /* Half the height */
+   margin-left: -125px;
+}
+.hover-box .content .text p a{
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding: 8px 0;
+    color:#fff;
+    text-decoration: none;
+}
+.hover-box:hover > .content{
+   display: block;
+}
+.dotstyle ul {
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	cursor: default;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.dotstyle li {
+	position: relative;
+	display: block;
+	float: left;
+	margin: 0 16px;
+	width: 16px;
+	height: 16px;
+	cursor: pointer;
+}
+.dotstyle li a {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	outline: none;
 	border-radius: 50%;
+	background-color: #fff;
+	background-color: rgba(255, 255, 255, 0.3);
+	text-indent: -999em; /* make the text accessible to screen readers */
+	cursor: pointer;
+	position: absolute;
+}
+.dotstyle li a:focus {
+	outline: none;
+}
+.dotstyle-smalldotstroke li {
+	border-radius: 50%;
+	box-shadow: 0 0 0 2px rgba(255, 255, 255, 0);
+	-webkit-transition: box-shadow 0.3s ease;
+	transition: box-shadow 0.3s ease;
+}
+.dotstyle-smalldotstroke li a {
+	background-color: rgba(255, 255, 255, 0.7);
+	-webkit-transition: background-color 0.3s ease, -webkit-transform 0.3s ease;
+	transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.dotstyle-smalldotstroke li a:hover,
+.dotstyle-smalldotstroke li a:focus,
+.dotstyle-smalldotstroke li.current a {
+	background-color: white
+}
+.dotstyle-smalldotstroke li.current a {
+	-webkit-transform: scale(0.4);
+	transform: scale(0.4);
+}
+.dotstyle-smalldotstroke li.current {
+	box-shadow: 0 0 0 2px white;
 }
 footer{
 	width: 100%;
 	height: 50px;
 	background: #d8d8d8;
+	overflow: auto;
 }
 footer ul{
 	list-style: none;

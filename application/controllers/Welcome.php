@@ -30,4 +30,10 @@ class Welcome extends CI_Controller {
 		$this->template->set('title', 'Detalle | Portal Cero');
 		$this->template->load('master', 'contents' , 'contact', $data);
 	}
+	public function detail()
+	{
+		$data = array();
+		$this->template->set('title', 'Detalle | Portal Cero');
+		$this->template->load('master', 'contents' , 'detail', $data);
+	}
 }

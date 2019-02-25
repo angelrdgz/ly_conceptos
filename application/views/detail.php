@@ -1,5 +1,5 @@
 <div class="row">
-	<div class="col-sm-12 header-projects"></div>
+	<div class="col-sm-12 header-detail"></div>
 </div>
 <div class="row">
 	<div class="container padding-box">
@@ -15,7 +15,25 @@
 			</div>
 		</div>
 		<div class="row">
+			<div class="col-sm-6">
+				<img src="<?php echo base_url().'/assets/images/img_proyectos_7.png'; ?>" style="max-width:100%;"alt="">
+			</div>
+			<div class="col-sm-6">
+				<img src="<?php echo base_url().'/assets/images/img_proyectos_7.png'; ?>" style="max-width:100%;"alt="">
+			</div>
+		</div>
+		<br>
+		<div class="row">
 			<div class="col-sm-4">
+				<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+			</div>
+			<div class="col-sm-4">
+				<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+			</div>
+			<div class="col-sm-4">
+				<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+			</div>
+			<!--<div class="col-sm-4">
 				<div class="row">
 					<div class="col-sm-12 hover-box">
 						<img src="<?php echo base_url().'/assets/images/img_proyectos_1.png'; ?>" style="max-width:100%;"alt="">
@@ -24,7 +42,7 @@
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
@@ -37,7 +55,7 @@
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
@@ -47,25 +65,25 @@
 			<div class="col-sm-8">
 				<div class="row">
 					<div class="col-sm-6 hover-box">
-						<img src="<?php echo base_url().'/assets/images/img_proyectos_2.png'; ?>" style="max-width:100%;"alt="">
+						<img src="<?php echo base_url().'/assets/images/img_proyectos_7.png'; ?>" style="max-width:100%;"alt="">
 						<div class="content">
 							<div class="text">
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-6 hover-box">
-						<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+						<img src="<?php echo base_url().'/assets/images/img_proyectos_7.png'; ?>" style="max-width:100%;"alt="">
 						<div class="content">
 							<div class="text">
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
@@ -80,7 +98,7 @@
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
@@ -92,7 +110,7 @@
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
@@ -107,13 +125,63 @@
 								<h5 class="text-center text-white">Tipo de Proyecto</h5>
 								<h3 class="text-center text-white">Nombre de Proyecto</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'/detail'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
 					</div>
-				</div>				
+				</div>-->				
 			</div>
+		</div>
+	</div>	
+</div>
+<br>
+<div class="row">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+		<h4 class="">Otros Proyectos</h4>
+	</div>	
+	<div class="col-3" style="background:#fff;">
+		<img style="max-width:100%;" src="<?php echo base_url().'assets/images/Proyecto_casajaver_Home.png' ?>" alt="">
+		<h5>Proyecto</h5>
+		<div class="row">
+			<div class="col-sm-12">
+				<p class="text-muted float-left">Desarrollo Integral</p>
+				<a href="" class="btn-app-outline float-right">Ver</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-3" style="background:#fff;">
+		<img style="max-width:100%;" src="<?php echo base_url().'assets/images/Proyecto_ayuntamiento_Home.png' ?>" alt="">
+		<h5>Proyecto</h5>
+		<div class="row">
+			<div class="col-sm-12">
+				<p class="text-muted float-left">Desarrollo Integral</p>
+				<a href="" class="btn-app-outline float-right">Ver</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-3" style="background:#fff;">
+		<img style="max-width:100%;" src="<?php echo base_url().'assets/images/Proyecto_mugerza_Home.png' ?>" alt="">
+		<h5>Proyecto</h5>
+		<div class="row">
+			<div class="col-sm-12">
+				<p class="text-muted float-left">Desarrollo Integral</p>
+				<a href="" class="btn-app-outline float-right">Ver</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-3" style="background:#fff;">
+		<img style="max-width:100%;" src="<?php echo base_url().'assets/images/Proyecto_zigzac_Home.png' ?>" alt="">
+		<h5>Proyecto</h5>
+		<div class="row">
+			<div class="col-sm-12">
+				<p class="text-muted float-left">Desarrollo Integral</p>
+				<a href="" class="btn-app-outline float-right">Ver</a>
+			</div>
+		</div>
+	</div>	
 		</div>
 	</div>
 </div>

@@ -42,20 +42,22 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<h5 class="text-white float-left">Servicios</h5>
-						<ul class="list-dot float-right">
-							<li>
-								
-							</li>
-							<li>
-								
-							</li>
-							<li>
-								
-							</li>
-							<li>
-								
-							</li>
-						</ul>
+						<div class="dotstyle dotstyle-smalldotstroke">
+							<ul class="list-dot float-right">
+								<li>
+									<a href=""></a>
+								</li>
+								<li>
+									<a href=""></a>
+								</li>
+								<li>
+									<a href=""></a>
+								</li>
+								<li>
+									<a href=""></a>
+								</li>
+							</ul>
+						</div>
 					</div>
 					<br><br>
 					<div class="col-sm-12">
