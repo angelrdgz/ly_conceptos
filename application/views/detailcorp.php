@@ -5,33 +5,33 @@
 	<div class="container padding-box">
 		<div class="row">
 			<div class="col-sm-8 offset-sm-2">
-				<h5>Proyecto Universidad - UANL</h5>
+				<h5>Oficinas Corporativas - Cliente</h5>
 			</div>
 			<div class="col-sm-4 offset-sm-2">
-				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quam at totam rem, nam amet eos eligendi molestiae, ducimus aspernatur nulla necessitatibus quasi earum nihil.</p>
+				<p class="text-justify">Generamos espacios de trabajo de acuerdo a las necesidades del ciente para lograr un área de trabajo donde los empleados puedan desempeñar sus funciones de una manera confortable.</p>
 			</div>
 			<div class="col-sm-4 ">
-				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quam at totam rem, nam amet eos eligendi molestiae, ducimus aspernatur nulla necessitatibus quasi earum nihil.</p>
+				<p class="text-justify">Algunos de los trabajos que se realizarón fue el diseño de muebles y ambientación de oficinas privadas, salas de juntas y área de espera dentro del corporativo.</p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-6">
-				<img src="<?php echo base_url().'/assets/images/img_proyectoind_1_uni.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_1_corp1.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<div class="col-sm-6">
-				<img src="<?php echo base_url().'/assets/images/img_proyectoind_2_uni.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_2_corp1.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 		</div>
 		<br>
 		<div class="row">
 			<div class="col-sm-4">
-				<img src="<?php echo base_url().'/assets/images/img_proyectoind_3_uni.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_3_corp1.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<div class="col-sm-4">
-				<img src="<?php echo base_url().'/assets/images/img_proyectoind_4_uni.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_4_corp1.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<div class="col-sm-4">
-				<img src="<?php echo base_url().'/assets/images/img_proyectoind_5_uni.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_5_corp1.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<!--<div class="col-sm-4">
 				<div class="row">
