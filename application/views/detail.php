@@ -8,10 +8,10 @@
 				<h5>Proyecto Universidad - UANL</h5>
 			</div>
 			<div class="col-sm-4 offset-sm-2">
-				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quam at totam rem, nam amet eos eligendi molestiae, ducimus aspernatur nulla necessitatibus quasi earum nihil.</p>
+				<p class="text-justify">Nuestra colaboración para este proyecto fue el diseño y elaboración de los muebles para el área de trabajo colaborativo para la universidad UANL, donde además trabajamos en la ambientación del lugar.</p>
 			</div>
 			<div class="col-sm-4 ">
-				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quam at totam rem, nam amet eos eligendi molestiae, ducimus aspernatur nulla necessitatibus quasi earum nihil.</p>
+				<p class="text-justify">Se trabajo en la decoración del lugar para generar un espacio agradable de trabajo para los empleados, donde logramos un ambiente de trabajo armonioso.</p>
 			</div>
 		</div>
 		<div class="row">
