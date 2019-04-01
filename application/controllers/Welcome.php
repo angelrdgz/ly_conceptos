@@ -36,7 +36,7 @@ class Welcome extends CI_Controller {
 		$this->template->set('title', 'Detalle | Ly Conceptos');
 		$this->template->load('master', 'contents' , 'detail', $data);
 	}
-	public function detail()
+	public function detailcorp()
 	{
 		$data = array();
 		$this->template->set('title', 'Detalle | Ly Conceptos');
