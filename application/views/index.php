@@ -5,7 +5,7 @@
 	<div class="container padding-box">
 		<div class="row">
 			<div class="col-sm-9 offset-sm-1">
-				<h5 class="float-left">¿Tienes un proyecto en mente? Contactanos!</h5>
+				<h5 class="float-left">¿Tienes un proyecto en mente? Contáctanos!</h5>
 				<a href="" class="btn btn-gray float-right">Enviar</a>
 			</div>
 			<br><br>
@@ -63,7 +63,7 @@
 					<div class="col-sm-12">
 						<h3 class="text-center text-white">Desarrollo de productos integrales</h3>
 						<br>
-						<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores rem amet voluptatem numquam tempora aut distinctio impedit ullam earum recusandae eveniet accusamus commodi, ut provident repellat corporis, reiciendis, deserunt, necessitatibus?</p>
+						<p class="text-white">SE REALIZA UNA VISITA PERSONALIZADA CON NUESTO EQUIPO DE TRABAJO, ESCUCHAMOS LAS NECESIDADES DEL CLIENTE, POSTERIORMENTE SE REALIZAN UNA PROPUESTA ACERCA DEL PROYECTO, EN ESTE APARTADO SE INTEGRA PLANOS TECNICOS, TIPOS DE MOBILIARIO, SILLERIA, DECORACION, MATERIALES Y COLORES.</p>
 					</div>
 					<div class="col-sm-12">
 						<p class="text-right">
@@ -77,7 +77,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h4 class="">Proyectos</h4>
-			</div>	
+			</div>
 			<div class="col-3" style="background:#fff;">
 				<img style="max-width:100%;" src="<?php echo base_url().'assets/images/Proyecto_casajaver_Home.png' ?>" alt="">
 				<h5>Proyecto</h5>
@@ -117,7 +117,7 @@
 						<a href="" class="btn-app-outline float-right">Ver</a>
 					</div>
 				</div>
-			</div>	
+			</div>
 		</div>
 	</div>
 </div>

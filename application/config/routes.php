@@ -56,3 +56,4 @@ $route['services'] = '/welcome/services';
 $route['projects'] = '/welcome/projects';
 $route['contact'] = '/welcome/contact';
 $route['detail'] = '/welcome/detail';
+$route['detailcorp'] = '/welcome/detailcorp';

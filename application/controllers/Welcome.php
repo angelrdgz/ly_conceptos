@@ -15,25 +15,31 @@ class Welcome extends CI_Controller {
 	public function services()
 	{
 		$data = array();
-		$this->template->set('title', 'Detalle | Portal Cero');
+		$this->template->set('title', 'Detalle | Ly Conceptos');
 		$this->template->load('master', 'contents' , 'services', $data);
 	}
 	public function projects()
 	{
 		$data = array();
-		$this->template->set('title', 'Detalle | Portal Cero');
+		$this->template->set('title', 'Detalle | Ly Conceptos');
 		$this->template->load('master', 'contents' , 'projects', $data);
 	}
 	public function contact()
 	{
 		$data = array();
-		$this->template->set('title', 'Detalle | Portal Cero');
+		$this->template->set('title', 'Detalle | Ly Conceptos');
 		$this->template->load('master', 'contents' , 'contact', $data);
 	}
 	public function detail()
 	{
 		$data = array();
-		$this->template->set('title', 'Detalle | Portal Cero');
+		$this->template->set('title', 'Detalle | Ly Conceptos');
 		$this->template->load('master', 'contents' , 'detail', $data);
+	}
+	public function detail()
+	{
+		$data = array();
+		$this->template->set('title', 'Detalle | Ly Conceptos');
+		$this->template->load('master', 'contents' , 'detailcorp', $data);
 	}
 }

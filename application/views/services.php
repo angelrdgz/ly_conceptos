@@ -8,16 +8,16 @@
 				<a href="">Mobiliario</a>
 			</li>
 			<li>
-				<a href="">Persionas</a>
+				<a href="">Persianas</a>
+			</li>
+			<li>
+				<a href="">Sillería</a>
 			</li>
 			<li>
 				<a href="">Proyectos Integrales</a>
 			</li>
 			<li>
-				<a href="">Interiorismo</a>
-			</li>
-			<li>
-				<a href="">Exteriorismo</a>
+				<a href=""></a>
 			</li>
 		</ul>
 	</div>
@@ -38,7 +38,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h4 class="text-center">Proyectos Relacionados</h4>
-			</div>	
+			</div>
 			<div class="col-3" style="background:#fff;">
 				<img style="max-width:100%;" src="<?php echo base_url().'assets/images/proyecto_servicio_1.png' ?>" alt="">
 				<h5>Proyecto</h5>
@@ -78,7 +78,7 @@
 						<a href="" class="btn-app-outline float-right">Ver</a>
 					</div>
 				</div>
-			</div>		
+			</div>
 		</div>
 	</div>
 </div>
