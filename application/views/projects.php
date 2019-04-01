@@ -34,10 +34,10 @@
 						<img src="<?php echo base_url().'/assets/images/img_proyectos_6.png'; ?>" style="max-width:100%;"alt="">
 						<div class="content">
 							<div class="text">
-								<h5 class="text-center text-white">Tipo de Proyecto</h5>
-								<h3 class="text-center text-white">Nombre de Proyecto</h3>
+								<h5 class="text-center text-white">Proyecto Integral</h5>
+								<h3 class="text-center text-white">Corporativo</h3>
 								<p class="text-center">
-									<a href="<?php echo base_url().'detail'; ?>">Ver más detalles</a>
+									<a href="<?php echo base_url().'detailcorp'; ?>">Ver más detalles</a>
 								</p>
 							</div>
 						</div>
