@@ -16,22 +16,22 @@
 		</div>
 		<div class="row">
 			<div class="col-sm-6">
-				<img src="<?php echo base_url().'/assets/images/img_proyectos_7.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_1_uni.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<div class="col-sm-6">
-				<img src="<?php echo base_url().'/assets/images/img_proyectos_7.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_2_uni.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 		</div>
 		<br>
 		<div class="row">
 			<div class="col-sm-4">
-				<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_3_uni.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<div class="col-sm-4">
-				<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_4_uni.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<div class="col-sm-4">
-				<img src="<?php echo base_url().'/assets/images/img_proyectos_3.png'; ?>" style="max-width:100%;"alt="">
+				<img src="<?php echo base_url().'/assets/images/img_proyectoind_5_uni.png'; ?>" style="max-width:100%;"alt="">
 			</div>
 			<!--<div class="col-sm-4">
 				<div class="row">
@@ -87,7 +87,7 @@
 								</p>
 							</div>
 						</div>
-					</div>					
+					</div>
 				</div>
 				<br>
 				<div class="row">
@@ -130,10 +130,10 @@
 							</div>
 						</div>
 					</div>
-				</div>-->				
+				</div>-->
 			</div>
 		</div>
-	</div>	
+	</div>
 </div>
 <br>
 <div class="row">
@@ -141,7 +141,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 		<h4 class="">Otros Proyectos</h4>
-	</div>	
+	</div>
 	<div class="col-3" style="background:#fff;">
 		<img style="max-width:100%;" src="<?php echo base_url().'assets/images/Proyecto_casajaver_Home.png' ?>" alt="">
 		<h5>Proyecto</h5>
@@ -181,7 +181,7 @@
 				<a href="" class="btn-app-outline float-right">Ver</a>
 			</div>
 		</div>
-	</div>	
+	</div>
 		</div>
 	</div>
 </div>
